@@ -1,0 +1,15 @@
+C:\Users\bobri\Desktop\OpenFolder\Example\-rep-C-\bin\Debug\net6.0\-rep-C-.exe
+C:\Users\bobri\Desktop\OpenFolder\Example\-rep-C-\bin\Debug\net6.0\-rep-C-.deps.json
+C:\Users\bobri\Desktop\OpenFolder\Example\-rep-C-\bin\Debug\net6.0\-rep-C-.runtimeconfig.json
+C:\Users\bobri\Desktop\OpenFolder\Example\-rep-C-\bin\Debug\net6.0\-rep-C-.dll
+C:\Users\bobri\Desktop\OpenFolder\Example\-rep-C-\bin\Debug\net6.0\-rep-C-.pdb
+C:\Users\bobri\Desktop\OpenFolder\Example\-rep-C-\obj\Debug\net6.0\-rep-C-.csproj.AssemblyReference.cache
+C:\Users\bobri\Desktop\OpenFolder\Example\-rep-C-\obj\Debug\net6.0\-rep-C-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bobri\Desktop\OpenFolder\Example\-rep-C-\obj\Debug\net6.0\-rep-C-.AssemblyInfoInputs.cache
+C:\Users\bobri\Desktop\OpenFolder\Example\-rep-C-\obj\Debug\net6.0\-rep-C-.AssemblyInfo.cs
+C:\Users\bobri\Desktop\OpenFolder\Example\-rep-C-\obj\Debug\net6.0\-rep-C-.csproj.CoreCompileInputs.cache
+C:\Users\bobri\Desktop\OpenFolder\Example\-rep-C-\obj\Debug\net6.0\-rep-C-.dll
+C:\Users\bobri\Desktop\OpenFolder\Example\-rep-C-\obj\Debug\net6.0\refint\-rep-C-.dll
+C:\Users\bobri\Desktop\OpenFolder\Example\-rep-C-\obj\Debug\net6.0\-rep-C-.pdb
+C:\Users\bobri\Desktop\OpenFolder\Example\-rep-C-\obj\Debug\net6.0\-rep-C-.genruntimeconfig.cache
+C:\Users\bobri\Desktop\OpenFolder\Example\-rep-C-\obj\Debug\net6.0\ref\-rep-C-.dll
